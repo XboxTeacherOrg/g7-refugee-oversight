@@ -1,0 +1,17 @@
+{
+  "executive": {
+    "name": "Warith Akbar",
+    "role": "Professor / Index Authority",
+    "control": "exclusive"
+  },
+  "policies": {
+    "index_access": "restricted",
+    "api_access": "token_required",
+    "billing_control": "executive_only"
+  },
+  "integration": {
+    "domain": "https://swagga.store",
+    "github": "https://github.com/XboxTeacherOrg/g7-refugee-oversight",
+    "workspace": "linked"
+  }
+}
